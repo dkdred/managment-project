@@ -61,15 +61,12 @@
     .slider--title{
         height: 164px;
         width: 868px;
-        left: 45px;
-        top: 208px;
+
         font-family: Georgia;
         font-size: 72px;
         font-style: normal;
         font-weight: 700;
         line-height: 82px;
-        letter-spacing: 0em;
-        text-align: left;
         color: white;
         z-index: 999;
         opacity: 1;
